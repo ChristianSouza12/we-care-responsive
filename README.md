@@ -12,3 +12,6 @@ Technologies used:
 
   <br>
   <br>
+
+
+<img src="https://github.com/ChristianSouza12/we-care-responsive/blob/main/assets/c66071c7-b605-405d-8e88-df8ff1d9587d.jpg?raw=true">
